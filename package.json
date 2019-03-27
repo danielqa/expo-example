@@ -8,14 +8,18 @@
     "eslint-fix": "eslint --fix ."
   },
   "dependencies": {
+    "@expo/vector-icons": "^10.0.1",
     "expo": "^32.0.0",
     "react": "16.5.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-native-calendars": "^1.22.0",
     "react-native-paper": "^2.14.0",
+    "react-native-svg-charts": "^5.2.0",
     "react-navigation": "^3.5.1",
     "react-redux": "^6.0.1",
     "redux": "^4.0.1",
-    "reduxsauce": "^1.0.1"
+    "reduxsauce": "^1.0.1",
+    "styled-components": "^4.2.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
